@@ -27,7 +27,7 @@ img {
     justify-content: center;;
 }
 .card {
-    width: 30%;
+    width: 25%;
     display: grid;
     justify-items: center;
     background: #fff;
